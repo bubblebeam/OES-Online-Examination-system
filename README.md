@@ -24,10 +24,10 @@ first load the file homepage.php using wamp server, this page is the home page o
 
 *normal*: All functionality except add/delete tests.
 
-**For admin login:
-Username: Admin
+**For admin login:**
+**Username: Admin**
 
-Password: Admin123**
+**Password: Admin123**
 
 **Normal Users can perform the following functionality:**
 
@@ -48,6 +48,7 @@ to the user profile. The Administrator Login will take the user to the administr
 **Admins can perform the following EXTRA functions:"**
 
 **Add Tests:** The admin can create a new MCQ type test.
+
 **Delete test:** The admin may delete the test while viewing them in the 'Tests' window
 
 
