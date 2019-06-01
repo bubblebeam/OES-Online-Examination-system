@@ -21,6 +21,7 @@ first load the file homepage.php using wamp server, this page is the home page o
 **USERS OF THE APPLICATION**
 
 *Admin*: Has the privilage to add/delete tests under the manage tests option in the navbar
+
 *normal*: All functionality except add/delete tests.
 
 **For admin login:**
