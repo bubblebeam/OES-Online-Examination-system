@@ -22,15 +22,15 @@ first load the file homepage.php using wamp server, this page is the home page o
 *Admin*: Has the privilage to add/delete tests under the manage tests option in the navbar
 *normal*: All functionality except add/delete tests.
 
-For admin login:
+**For admin login:**
+
 Username: Admin
 Password: Admin123
 
 **Users can perform the following functionality:**
-Home: It basically displays the homepage of the website.
+Home: It basically displays the homepage of the application.
 
-Sign-up: This window contains a form that has to be filled by the user inorder to get access
-to appear for the tests.
+Sign-up: This window contains a form that has to be filled by the user in order to get registered.
 
 Login: This window offers the user two choices for logging into the system according to the
 preset privileges -Candidate login and Administrator login. The candidate login will take the user
