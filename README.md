@@ -17,7 +17,8 @@ After the backend is set and the WAMP server is up and running,
 Place the contents of the "quiz" folder in the webserver root directory.(www directory in WAMP server)
 first load the file homepage.php using wamp server, this page is the home page of the applicaion.You can use the application from here.
 
-USERS OF THE APPLICATION
+**USERS OF THE APPLICATION**
+
 *Admin*: Has the privilage to add/delete tests under the manage tests option in the navbar
 *normal*: All functionality except add/delete tests.
 
