@@ -1,12 +1,12 @@
 # OES-Online-Examination-system
 Online examination system in HTML, CSS, JavaScript, PHP and mySQL
 
-An online examination system application where students can give MCQ type tests of their choice. The admin can add or delete tests. Students can appear for tests only after logging in to the system using valid email id and
+An online examination system application where students can give MCQ type tests of their choice and view their marks. The admin can add or delete tests. Students can appear for tests only after logging in to the system using valid email id and
 password.
 
 
-The Database folder contains the SQL files comprising of the backend for the application.Run these and your backend is set!
-The Quiz folder consists of all the the code files defining the interface of the application.
+The 'Database' folder contains the SQL files comprising of the backend for the application.Run these and your backend is set!
+The 'Quiz' folder consists of all the the code files defining the interface of the application. 
 
 **Pre-requisite installation for running the project:**
 MySql Server Database(Example :WAMP,XAMPP,LAMP,MAMP)
