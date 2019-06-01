@@ -9,6 +9,7 @@ The 'Database' folder contains the SQL files comprising of the backend for the a
 The 'Quiz' folder consists of all the the code files defining the interface of the application. 
 
 **Pre-requisite installation for running the project:**
+
 MySql Server Database(Example :WAMP,XAMPP,LAMP,MAMP)
 
 For managing the database use any software like PhpMyAdmin or mySQL workbench.
@@ -18,6 +19,7 @@ Place the contents of the "quiz" folder in the webserver root directory.(www dir
 first load the file homepage.php using wamp server, this page is the home page of the applicaion.You can use the application from here.
 
 **USERS OF THE APPLICATION**
+
 *Admin*: Has the privilage to add/delete tests under the manage tests option in the navbar
 *normal*: All functionality except add/delete tests.
 
