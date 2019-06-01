@@ -18,27 +18,35 @@ Place the contents of the "quiz" folder in the webserver root directory.(www dir
 first load the file homepage.php using wamp server, this page is the home page of the applicaion.You can use the application from here.
 
 **USERS OF THE APPLICATION**
-
 *Admin*: Has the privilage to add/delete tests under the manage tests option in the navbar
 *normal*: All functionality except add/delete tests.
 
 **For admin login:**
-
 Username: Admin
 Password: Admin123
 
-**Users can perform the following functionality:**
-Home: It basically displays the homepage of the application.
+**Normal Users can perform the following functionality:**
 
-Sign-up: This window contains a form that has to be filled by the user in order to get registered.
+**Home:** It basically displays the homepage of the application.
 
-Login: This window offers the user two choices for logging into the system according to the
+**Sign-up:** This window contains a registration form that has to be filled by the user.
+
+**Login:** This window offers the user two choices for logging into the system according to the
 preset privileges -Candidate login and Administrator login. The candidate login will take the user
 to the user profile. The Administrator Login will take the user to the administrator profile.
 
-Tests: This window contains all the exams candidate can give.
+**Tests:** This window contains all the exams candidate can give.
 
-Final Result: This window displays the result of exam the candidate has appeared for.
+**Final Result:** This window displays the result of exam the candidate has appeared for.
+
+**Logout:** Logs the candidate out of the system
+
+**Admins can perform the following EXTRA functions:"**
+
+**Add Tests:** The admin can create a new MCQ type test.
+**Delete test:** The admin may delete the test while viewing them in the 'Tests' window
+
+
 
 
 
