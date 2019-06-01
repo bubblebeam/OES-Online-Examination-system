@@ -24,9 +24,10 @@ first load the file homepage.php using wamp server, this page is the home page o
 
 *normal*: All functionality except add/delete tests.
 
-**For admin login:**
+**For admin login:
 Username: Admin
-Password: Admin123
+
+Password: Admin123**
 
 **Normal Users can perform the following functionality:**
 
